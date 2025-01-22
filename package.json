@@ -1,0 +1,19 @@
+{
+  "name": "base-api",
+  "version": "1.0.0",
+  "description": "Base API to access database",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MCruces-fz/base-api.git"
+  },
+  "author": "mcruces",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MCruces-fz/base-api/issues"
+  },
+  "homepage": "https://github.com/MCruces-fz/base-api#readme"
+}
