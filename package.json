@@ -15,5 +15,15 @@
   "bugs": {
     "url": "https://github.com/MCruces-fz/base-api/issues"
   },
-  "homepage": "https://github.com/MCruces-fz/base-api#readme"
+  "homepage": "https://github.com/MCruces-fz/base-api#readme",
+  "dependencies": {
+    "express": "4.21.2",
+    "zod": "3.24.2"
+  },
+  "devDependencies": {
+    "standard": "^17.1.2"
+  },
+  "eslintConfig": {
+    "extends": "standard"
+  }
 }
